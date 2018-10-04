@@ -1,7 +1,7 @@
 # BookIt
 
 
-**BookIt** is a one stop for all your entertainment ticketing needs from concert ticket to NFL game tickets, can be booked using BookIt. View the events happening near you and add them to your wishlist. Get notified if your favourite event is running out of tickets. 
+**BookIt** is a one stop destination for all your entertainment ticketing needs. View the events happening near you and add them to your wishlist. Get notified if your favourite event is running out of tickets. 
 
 ### Contributors
 
